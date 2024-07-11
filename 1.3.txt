@@ -1,0 +1,4 @@
+root@d37478794dcd:/usr/src/app# tail -f ./text.log
+2024-07-04 15:09:09 +0000 UTC
+2024-07-04 15:09:11 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
