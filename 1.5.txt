@@ -5,3 +5,21 @@ ubuntu                              jammy_jellyfish   8a3cdc4d1ad3   2 weeks ago
 ubuntu                              latest            35a88802559d   5 weeks ago   78.1MB
 devopsdockeruh/simple-web-service   ubuntu            4e3362e907d5   3 years ago   83MB
 devopsdockeruh/simple-web-service   alpine            fd312adc88e0   3 years ago   15.7MB
+
+
+root@WIN-OJ4GNT54SOE:/home/shahalias/devops# docker exec -it bcc sh
+/usr/src/app # tail -f ./text.log
+2024-07-13 12:51:07 +0000 UTC
+2024-07-13 12:51:09 +0000 UTC
+2024-07-13 12:51:11 +0000 UTC
+2024-07-13 12:51:13 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2024-07-13 12:51:15 +0000 UTC
+2024-07-13 12:51:17 +0000 UTC
+2024-07-13 12:51:19 +0000 UTC
+2024-07-13 12:51:21 +0000 UTC
+2024-07-13 12:51:23 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2024-07-13 12:51:25 +0000 UTC
+2024-07-13 12:51:27 +0000 UTC
+2024-07-13 12:51:29 +0000 UTC
