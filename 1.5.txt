@@ -1,0 +1,7 @@
+REPOSITORY                          TAG               IMAGE ID       CREATED       SIZE
+fav_distro                          jammy_jellyfish   8a3cdc4d1ad3   2 weeks ago   77.9MB
+ubuntu                              22.04             8a3cdc4d1ad3   2 weeks ago   77.9MB
+ubuntu                              jammy_jellyfish   8a3cdc4d1ad3   2 weeks ago   77.9MB
+ubuntu                              latest            35a88802559d   5 weeks ago   78.1MB
+devopsdockeruh/simple-web-service   ubuntu            4e3362e907d5   3 years ago   83MB
+devopsdockeruh/simple-web-service   alpine            fd312adc88e0   3 years ago   15.7MB
